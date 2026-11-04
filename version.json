@@ -1,5 +1,5 @@
 {
-  "version": "2.1.6",
+  "version": "2.1.7",
   "url": "https://github.com/ender1507/EASN/releases/latest",
-  "notes": "White screen fix, recruiting calls, promise tracking, smarter Player Personnel search, better post-game columns, coach polos."
+  "notes": "Reworked staff meetings (coordinator briefings, Special attention players, call sheet), Player recovery with real wear and tear, Locker Room stories that start on their own, playbooks and play diagrams, readable team colors, recruiting call fixes."
 }
